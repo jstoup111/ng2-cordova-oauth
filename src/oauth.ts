@@ -4,8 +4,8 @@
  * http://www.nraboy.com
  */
 
-import { OAuthProvider } from './provider';
-import { utils } from './utility';
+import { OAuthProvider } from '../provider';
+import { utils } from '../utility';
 
 /*
  * The main driver class for connections to each of the providers.
